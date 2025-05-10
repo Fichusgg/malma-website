@@ -1,3 +1,4 @@
+console.log("Carousel script loaded");
 const track = document.querySelector(".carousel-track");
 const images = document.querySelectorAll(".carousel-image");
 let currentIndex = 0;
